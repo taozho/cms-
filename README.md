@@ -9,9 +9,9 @@
 | **3** | **第三章 github中命令的使用**| 要求学生能够掌握一种同步本地仓库与github在线仓库的办法，主要介绍了命令行和GUI两种操作方式，也介绍了其他工具的可实现性。| 课前学习视频+课上回答问题+问题分析和讨论|
 | **4** | **第四章 MarkDown文本的编辑使用** | 介绍了MarkDown文档的特点和基本语法，要求学生能够掌握常见元素的实现方法，要求学生将之前的学习文档全部整理成md格式上传至github对应仓库，作为学习资料进行保存。| 课前学习视频+课上回答问题+问题分析和讨论|
 | **5** | **第五章 UI设计常识** |该部分知识用了4课时时间，要求学生能够对于UI设计的基本常识进行了解，着重对于网页设计中的UI问题进行学习。要求学生能够具备基本的UI常识知识，并能够对常见网站的UI设计进行分析。|课前学习视频+课上回答问题+问题分析和讨论|
-| **7** | **第六章 原型工具的使用** |本章先介绍了什么是原型设计，原型设计在软件开发流程当中的作用和位置。之后介绍了常用的原型设计工具：墨刀和Axture，并要求学生掌握墨刀的使用方法，要求学生能够使用墨刀设计出一套具有交互功能的原型界面（不少于三个界面）| 课前学习视频+课上回答问题+问题分析和讨论 |
-| **8** | **第七章 PHPCMS框架开发** | [<img src="https://raw.githubusercontent.com/edu2act/course-web1/master/images/presentation.png" height="15" />Slides](*) / [<img src="https://raw.githubusercontent.com/edu2act/course-web1/master/images/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/edu2act/course-web1/master/images/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/edu2act/course-web1/master/images/video.png" height="13"> Videos](/Topics/04. Stylus/VIDEOS.md) | **1+1**|
-| **9** | **第八章 数据库设计** | [<img src="https://raw.githubusercontent.com/edu2act/course-web1/master/images/presentation.png" height="15" />Slides](*) / [<img src="https://raw.githubusercontent.com/edu2act/course-web1/master/images/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/edu2act/course-web1/master/images/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/edu2act/course-web1/master/images/video.png" height="13"> Videos](/Topics/04. Stylus/VIDEOS.md) | **1+1**|
-| **10** | **第九章 redmine平台的了解与使用**| [<img src="https://raw.githubusercontent.com/edu2act/course-web1/master/images/presentation.png" height="15" />Slides](*) / [<img src="https://raw.githubusercontent.com/edu2act/course-web1/master/images/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/edu2act/course-web1/master/images/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/edu2act/course-web1/master/images/video.png" height="13"> Videos](/Topics/04. Stylus/VIDEOS.md) | **1+1**|
+| **6** | **第六章 原型工具的使用** |本章先介绍了什么是原型设计，原型设计在软件开发流程当中的作用和位置。之后介绍了常用的原型设计工具：墨刀和Axture，并要求学生掌握墨刀的使用方法，要求学生能够使用墨刀设计出一套具有交互功能的原型界面（不少于三个界面）| 课前学习视频+课上回答问题+问题分析和讨论 |
+| **7** | **第七章 PHPCMS框架开发** | 本章节需使用16课时，介绍PHP动态网站的执行流程和PHPCMS框架的使用方法，要求所有学生能够使用PHPCMS进行网站后台的搭建| 讲授+实践|
+| **8** | **第八章 数据库设计** | 要求学生对于数据库的设计进行了解，能够掌握如何设计出更合理有效的数据库 | 讲授+实践|
+| **9** | **第九章 redmine平台的了解与使用**| 要求学生能够了解redmine平台的作用，了解敏捷开发的思想，能够熟练使用redmine平台 | **1+1**|
 
 
