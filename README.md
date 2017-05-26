@@ -15,3 +15,20 @@
 | **9** | **第九章 redmine平台的了解与使用**| 要求学生能够了解redmine平台的作用，了解敏捷开发的思想，能够熟练使用redmine平台 | 课前学习视频+课上回答问题+问题分析和讨论 |
 
 
+# simple-clear-style
+
+对自己常用的网站样式进行改造。
+
+让网站更简洁、易用和高效。
+
+[![License](https://img.shields.io/github/license/cquanu/github-dark.svg)](https://github.com/cquanu/github-dark/blob/master/LICENSE)
+
+## 如何使用
+
+首先，在自己使用的浏览器上安装 stylish 插件：
+
+- [Chrome](www.google.com)  
+- [Firefox]()
+- [Safari]()
+
+其次，安装需要的样式。
