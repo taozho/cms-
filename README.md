@@ -32,10 +32,5 @@
 - [Safari]()
 
 其次，安装需要的样式。
-> 点击下面的网址，直接安装该网站的样式。
->>- [edu-51cto-com]  
-- [hostedredmine-com]
-- [fullscreen-naotu-baidu]
-- [optimize-naotu-baidu]
-- [simple-jobbole]
+> 点击下面的网址，直接安装该网站的样式。`[edu-51cto-com]`  
 
